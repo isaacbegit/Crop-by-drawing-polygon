@@ -1,0 +1,9 @@
+D:\GitHub\MovableGrid\MovableGrid\bin\Debug\MovableGrid.exe.config
+D:\GitHub\MovableGrid\MovableGrid\obj\Debug\MovableGrid.csprojResolveAssemblyReference.cache
+D:\GitHub\MovableGrid\MovableGrid\obj\Debug\MovableGrid.Form1.resources
+D:\GitHub\MovableGrid\MovableGrid\obj\Debug\MovableGrid.Properties.Resources.resources
+D:\GitHub\MovableGrid\MovableGrid\obj\Debug\MovableGrid.csproj.GenerateResource.Cache
+D:\GitHub\MovableGrid\MovableGrid\bin\Debug\MovableGrid.exe
+D:\GitHub\MovableGrid\MovableGrid\bin\Debug\MovableGrid.pdb
+D:\GitHub\MovableGrid\MovableGrid\obj\Debug\MovableGrid.exe
+D:\GitHub\MovableGrid\MovableGrid\obj\Debug\MovableGrid.pdb
